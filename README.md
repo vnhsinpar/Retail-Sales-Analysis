@@ -12,7 +12,7 @@ This dashboard enables users to filter by Time, Product Category, Age Group and 
 ## Insight Deep Dive
 To investigate the retail sales performance, we focus on these dimensions and matric: Age group, Gender, Product Category, Time, Revenue and Profit, and profit margin.
 
-### Gender Behavior
+#### Gender Behavior
 * Females slightly outperform males in total revenue with 51%. Product trends show males lead in Electronics (80.2K vs 76.7K) while females prefer Clothing (81.3K vs 74.3K).
 
 ### Time Patterns
