@@ -3,7 +3,8 @@
 According to my analysis on retail sales dataset, the company successfully drive sales through targeted demographics and seasonal peaks, but our high costs and excessive discounting have resulted in low profitability. Key customer segments show distinct preferences: 25-34-year-olds for Clothing, 35-64-year-olds for Electronics, and 18-24-year-olds for Beauty. Revenue fluctuates by product categories: Electronics drive high revenue at mid-tier prices, Clothing generates high volume through lower prices, and Beauty commands a premium price with lower sales volume. Promotions in May and October drive revenue with higher average prices, but broad discounts, like those in September, erode margins. The core issue is that a revenue of $456K yields only a 25% profit margin ($115K). To maintain sustainable growth, we must shift from a discount-driven volume strategy to a margin-focused approach centered on cost reduction and strategic pricing.
 
 ## Dashboard
-This dashboard enables users to filter by Time, Product Category, Age Group and Gender. 
+This dashboard enables users to filter by Time, Product Category, Age Group and Gender. You can click <a href="https://github.com/vnhsinpar/Retail-Sales-Analysis/blob/main/Retail_Sales_Dashboard.pbix"> here </a> for the interactive Power BI dashboard. 
+
 
 <img width="1562" height="838" alt="Retail_Sales_Dashboard_Image" src="https://github.com/user-attachments/assets/a1594b7d-77cb-4329-9267-45ec1f9461b6" />
 
