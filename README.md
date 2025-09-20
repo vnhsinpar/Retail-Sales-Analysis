@@ -4,6 +4,7 @@ According to my analysis on retail sales dataset, the company successfully drive
 
 ## Dashboard
 This dashboard enables users to filter by Time, Product Category, Age Group and Gender. 
+
 <img width="1562" height="838" alt="Retail_Sales_Dashboard_Image" src="https://github.com/user-attachments/assets/a1594b7d-77cb-4329-9267-45ec1f9461b6" />
 
 
