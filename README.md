@@ -9,9 +9,9 @@ To investigate the retail sales performance, we focus on these dimensions and ma
 *Females slightly outperform males in total revenue with 51%. Product trends show males lead in Electronics (80.2K vs 76.7K) while females prefer Clothing (81.3K vs 74.3K).
 
 ### Time Patterns
-*Sales spike in May (53K) and October (47K), lowest in September (24K) and January (0.15K for 2024) likely incomplete data.
-*On October, beauty make the most revenue, and Electronic in May which align with promotion, festivals, or seasonal demand. In these peak months, the products with the highest revenue show a higher average price per unit compare to their annual average.  At the same time, other products also show reduced price in these two months. 
-*The dip in September is caused by heavy discounting as the average product price for all categories dropped below the annual average.   
+* Sales spike in May (53K) and October (47K), lowest in September (24K) and January (0.15K for 2024) likely incomplete data.
+* On October, beauty make the most revenue, and Electronic in May which align with promotion, festivals, or seasonal demand. In these peak months, the products with the highest revenue show a higher average price per unit compare to their annual average.  At the same time, other products also show reduced price in these two months. 
+* The dip in September is caused by heavy discounting as the average product price for all categories dropped below the annual average.   
 
 ### Product Category
 *Across 3 different product categories, Electronics generated the highest revenue (157K, 34.41%), followed by Clothing (156K, 34.12%), and Beauty (144K, 31.47%).
