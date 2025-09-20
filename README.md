@@ -15,40 +15,40 @@ To investigate the retail sales performance, we focus on these dimensions and ma
 #### Gender Behavior
 * Females slightly outperform males in total revenue with 51%. Product trends show males lead in Electronics (80.2K vs 76.7K) while females prefer Clothing (81.3K vs 74.3K).
 
-### Time Patterns
+#### Time Patterns
 * Sales spike in May (53K) and October (47K), lowest in September (24K) and January (0.15K for 2024) likely incomplete data.
 * On October, beauty make the most revenue, and Electronic in May which align with promotion, festivals, or seasonal demand. In these peak months, the products with the highest revenue show a higher average price per unit compare to their annual average.  At the same time, other products also show reduced price in these two months. 
 * The dip in September is caused by heavy discounting as the average product price for all categories dropped below the annual average.   
 
-### Product Category
+#### Product Category
 * Across 3 different product categories, Electronics generated the highest revenue (157K, 34.41%), followed by Clothing (156K, 34.12%), and Beauty (144K, 31.47%).
 
-### Age
+#### Age
 * Revenue contribution is relatively strong across 25–54 years, showing this group is the most active in shopping.
 
-### Age & Product Relationship
+#### Age & Product Relationship
 * 25–34 age group spends the most on Clothing (42K), 35–44 and 55–64 show higher spending on Electronics (36–38K) and 18–24 prefers Beauty (29K), though total spend is lower.
 
-### Price Distribution
+#### Price Distribution
 * Beauty has (184) Average price per unit but fewer units sold.
 * Electronics are mid-priced (181) with moderate units, making them steady performer. 
 * Clothing is lower-priced (174) but sells in highest volumes.
 
-### Profitability Challenge
+#### Profitability 
 * Despite generating 456K in revenue, profit if limited to 115K 25% margin) due to high cost per unit across the product categories. This indicates the need of structural sourcing, pricing strategy rather than promotional discounting. A strategy that prioritizes margins and cost optimization is necessary.
 
 ## Business Recommendations
-### Marketing Team
+#### Marketing Team
 * Target females aged 25–54 with premium clothing line, as this group drives consistent revenue.
 * Launch youth-oriented promotions (18–24) for Beauty products to grow early loyalty.
 * Use value added promotions such as free gift with purchase, bundles in peak seasons instead of discounts to maintain or increase margin during high demand period.
 
-### Finance Team
+#### Finance Team
 * Launch a deep-dive analysis into the Cost of Goods Sold (COGS) for each product category to identify the primary drivers of high unit costs.
 * Shift key performance indicators from revenue to profit margin to incentivize profitable growth.
 * Try working with Product and Marketing to model the profit impact of a 1-5% price increase for Clothing (high volume) and Electronics (mid-price). Our data suggests customer demand may be more price-inelastic than assumed.
 
-### Product Team
+#### Product Team
 * Introduce a premium SKU in Clothing and Electronics to capture higher willingness-to-pay, especially from our core age demographics (25-44). 
 * Bundle Beauty products with Clothing to cross-sell effectively.
 * Optimize sourcing, logistics to improve profitability. 
