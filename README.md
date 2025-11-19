@@ -1,6 +1,17 @@
 # Retail-Sales-Analysis
 ## Executive Summary
 According to my analysis on retail sales dataset, the company successfully drive sales through targeted demographics and seasonal peaks, but our high costs and excessive discounting have resulted in low profitability. Key customer segments show distinct preferences: 25-34-year-olds for Clothing, 35-64-year-olds for Electronics, and 18-24-year-olds for Beauty. Revenue fluctuates by product categories: Electronics drive high revenue at mid-tier prices, Clothing generates high volume through lower prices, and Beauty commands a premium price with lower sales volume. Promotions in May and October drive revenue with higher average prices, but broad discounts, like those in September, erode margins. The core issue is that a revenue of $456K yields only a 25% profit margin ($115K). To maintain sustainable growth, we must shift from a discount-driven volume strategy to a margin-focused approach centered on cost reduction and strategic pricing.
+## Problem Statment
+We want to discover which customer, product, and seasonal factors most strongly influence purchasing behavior and profitability in order to guide better marketing, pricing, and operational decisions. 
+**Breaking down the problem into smaller sections:**
+ - How do customer demographics (age and gender) influence purchasing behavior?
+ - Are there discernible patterns in sales across different time periods (month, day of week)?
+ - Which product categories hold the highest appeal among customers?
+ - What are the relationships between age, spending, and product preferences?
+ - How do seasonal trends and promotions affect customer purchasing behavior?
+ - What can be inferred from the distribution of product prices vs. units sold?
+ - Is there a balance between cost and profit?
+
 
 ## Dashboard
 This dashboard enables users to filter by Time, Product Category, Age Group and Gender. You can click <a href="https://github.com/vnhsinpar/Retail-Sales-Analysis/blob/main/Retail_Sales_Dashboard.pbix"> here </a> for the interactive Power BI dashboard. 
@@ -52,6 +63,23 @@ To investigate the retail sales performance, we focus on these dimensions and ma
 * Introduce a premium SKU in Clothing and Electronics to capture higher willingness-to-pay, especially from our core age demographics (25-44). 
 * Bundle Beauty products with Clothing to cross-sell effectively.
 * Optimize sourcing, logistics to improve profitability. 
+
+## Dataset Stats
+The dataset is retrieved from publicly available kaggle platform. Click <a href="https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset/data"> retail-sales-dataset  </a>
+* Obtain from Kaggle, contained 1000 records.
+* Data ranges from January 2023 to January 2024.
+* The dataset has fields such as: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, and Total Revenue.
+* To simulate a more realistic business dataset for analytics, I extend Cost Per Unit matric with with the help of modern tech.
+
+## Methodolody
+* Sanity checks the data with excel
+* Dax, writing function, calculated columns, data visualization in power BI
+* I use both descriptive analysis (what happened) and diagnostic insights (why it happened).
+
+## Assumptions and Caveats
+* January 2024 data is incomplete; insights for that month will not reflect true performance.
+* Dataset reflects historical retail transactions but may not account for external factors (inflation, macroeconomic shifts, or competitor promotions).
+
 
 
 
