@@ -5,13 +5,13 @@ According to my analysis on retail sales dataset, the company successfully drive
 We want to discover which customer, product, and seasonal factors most strongly influence purchasing behavior and profitability in order to guide better marketing, pricing, and operational decisions. 
 
 **Breaking down the problem into smaller sections:**
- -How do customer demographics (age and gender) influence purchasing behavior?
- -Are there discernible patterns in sales across different time periods (month, day of week)?
- -Which product categories hold the highest appeal among customers?
- -What are the relationships between age, spending, and product preferences?
- -How do seasonal trends and promotions affect customer purchasing behavior?
- -What can be inferred from the distribution of product prices vs. units sold?
- -Is there a balance between cost and profit?
+ - How do customer demographics (age and gender) influence purchasing behavior?
+ - Are there discernible patterns in sales across different time periods (month, day of week)?
+ - Which product categories hold the highest appeal among customers?
+ - What are the relationships between age, spending, and product preferences?
+ - How do seasonal trends and promotions affect customer purchasing behavior?
+ - What can be inferred from the distribution of product prices vs. units sold?
+ - Is there a balance between cost and profit?
 
 
 ## Dashboard
